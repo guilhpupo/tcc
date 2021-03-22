@@ -1,0 +1,10 @@
+.topBar{
+    height: fit-content;
+    width: 100%;
+    text-align: end;
+    padding-right: 1rem;
+}
+.topBar a{
+    margin:1rem;
+    font-weight: bold;
+}

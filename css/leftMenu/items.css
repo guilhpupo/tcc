@@ -1,0 +1,14 @@
+.items {
+    flex:1;
+}
+.items ul {
+  list-style: none;
+}
+.items li {
+  padding: 1rem 0.8rem;
+  text-align: start;
+}
+.items li:hover {
+  background-color: #5c4080;
+  font-weight: bold;
+}

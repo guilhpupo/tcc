@@ -1,0 +1,54 @@
+/*
+main0 = #2F174D
+main1 = #442966
+main2 = #5C4080
+main3 = #775C99
+main4 = #957DB3
+
+white = #EBEBEB
+black = #1A1A1A
+*/
+
+.color-main0 {
+  color: #2f174d;
+}
+.color-main1 {
+  color: #442966;
+}
+.color-main2 {
+  color: #5c4080;
+}
+.color-main3 {
+  color: #775c99;
+}
+.color-main4 {
+  color: #957db3;
+}
+.color-white {
+  color: #ebebeb;
+}
+.color-black {
+  color: #1a1a1a;
+}
+
+.bgColor-main0 {
+  background-color: #2f174d;
+}
+.bgColor-main1 {
+  background-color: #442966;
+}
+.bgColor-main2 {
+  background-color: #5c4080;
+}
+.bgColor-main3 {
+  background-color: #775c99;
+}
+.bgColor-main4 {
+  background-color: #957db3;
+}
+.bgColor-white {
+  background-color: #ebebeb;
+}
+.bgColor-black {
+  background-color: #1a1a1a;
+}
